@@ -94,27 +94,27 @@ exit
 ;;
 
 2) clear
-sh 2.sh
+HackSatelit.sh
 exit
 ;;
 
 3) clear
-sh 3.sh
+HackListrik.sh
 exit
 ;;
 
 4) clear
-sh 4.sh
+NgepetOnline.sh
 exit
 ;;
 
 5) clear
-sh 5.sh
+NgeweOnline.sh
 exit
 ;;
 
 6) clear
-sh 6.sh
+SantetOnline.sh
 exit
 ;;
 
